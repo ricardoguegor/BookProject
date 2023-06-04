@@ -1,2 +1,6 @@
 Gracias papa
+<<<<<<< HEAD
 Gracias Lis
+=======
+Gracias mama
+>>>>>>> master
